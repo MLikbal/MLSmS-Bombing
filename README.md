@@ -14,9 +14,6 @@
 
 #RUN THIS COMMAND
 
-
      git clone https://github.com/MLikbal/MLSmS-Bombing
-
      cd MLSmS-Bombing
-
      python MLSmsBomBer.py
