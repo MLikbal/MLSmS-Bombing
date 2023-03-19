@@ -2,6 +2,9 @@
 
 
 #Termux Setuo Command
+
+
+
      apt update
      apt upgrade
      pkg install python
