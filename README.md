@@ -5,9 +5,9 @@
 #Installation ⬇️:
 
      pkg update -y
-     Pkg upgrade -y
-     Pkg install git
-     Pkg install python
+     pkg upgrade -y
+     pkg install git
+     pkg install python
      pip install requests
      pip install bs4
      pip install rich
