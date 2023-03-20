@@ -1,19 +1,18 @@
 # MLSmS-Bombing
 
 
-#Termux Setuo Command
+
+#Installation ⬇️:
 
 
-
-     apt update
-     apt upgrade
-     pkg install python
-     pkg install python3
-     pip install requests
-     pkg install git
-
-#RUN THIS COMMAND
-
-     git clone https://github.com/MLikbal/MLSmS-Bombing
-     cd MLSmS-Bombing
-     python MLSmsBomBer.py
+ pkg update -y
+ Pkg upgrade -y
+ Pkg install git
+ Pkg install python
+ pip install requests
+ pip install bs4
+ pip install rich
+ git clone https://github.com/MLikbal/MLSmS-Bombing
+ cd MLSmS-Bombing
+ ls
+ python MLSmsBomBer.py
