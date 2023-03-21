@@ -15,3 +15,12 @@
      cd MLSmS-Bombing
      ls
      python MLSmsBomBer.py
+
+
+
+
+
+#password ⬇️:
+
+USERNAME =>ML HACKER TEAM
+PASSWORD =>ML HACKER
